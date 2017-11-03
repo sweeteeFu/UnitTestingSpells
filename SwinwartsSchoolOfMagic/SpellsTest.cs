@@ -17,7 +17,7 @@ namespace SwinwartsSchoolOfMagic
 		public void TestInvisibility()
 		{
 			Spell s = new Spell("Test Invisibility", SpellKind.Invisibility);
-			StringAssert.AreEqualIgnoringCase("Zippp... ere am I?", s.Cast());
+			StringAssert.AreEqualIgnoringCase("Zippp... Where am I?", s.Cast());
 		}
 
 		[Test()]
