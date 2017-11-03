@@ -1,6 +1,6 @@
 language: csharp
 solution: SwinwartsSchoolOfMagic.sln
 script:
-    - xbuild /p:Configuration=Debug SwinwartsSchoolOfMagic.sln
+    - xbuild /p:Configuration=Debug SpellsTest.cs
 before_install:
     - sudo apt-get install nunit-console
