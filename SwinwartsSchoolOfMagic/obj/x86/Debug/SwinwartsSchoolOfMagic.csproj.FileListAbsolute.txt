@@ -1,0 +1,13 @@
+C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\bin\Debug\SwinwartsSchoolOfMagic.exe
+C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\bin\Debug\SwinwartsSchoolOfMagic.pdb
+C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\bin\Debug\mscorlib.dll
+C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\bin\Debug\nunit.framework.dll
+C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\bin\Debug\nunit.framework.xml
+C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\bin\Debug\normidna.nlp
+C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\bin\Debug\normnfc.nlp
+C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\bin\Debug\normnfd.nlp
+C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\bin\Debug\normnfkc.nlp
+C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\bin\Debug\normnfkd.nlp
+C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.csprojResolveAssemblyReference.cache
+C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.exe
+C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.pdb
