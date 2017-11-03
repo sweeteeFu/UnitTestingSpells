@@ -7,4 +7,4 @@ before_install:
 before_script:
     - nuget restore SwinwartsSchoolOfMagic.sln
 after_script:
-    - nunit-console SwinwartsSchoolOfMagic/bin/Debug/nunit.framework.dll
+    - nunit-console SwinwartsSchoolOfMagic/bin/Debug/SwinwartsSchoolOfMagic.exe
