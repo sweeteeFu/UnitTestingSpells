@@ -18,7 +18,7 @@ namespace SwinwartsSchoolOfMagic
 		/// <value>Name of the spell</value>
 		public string Name
 		{ 
-			get { return _name; }
+			get { return name; }
 			set { _name = value; }
 		}
 
