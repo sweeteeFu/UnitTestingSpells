@@ -1,0 +1,10 @@
+language: csharp
+solution: SwinwartsSchoolOfMagic.sln
+script:
+    - xbuild /p:Configuration=Debug SwinwartsSchoolOfMagic.sln
+before_install:
+    - sudo apt-get install nunit-console
+before_script:
+    - nuget restore SwinwartsSchoolOfMagic.sln
+after_script:
+    - nunit-console SwinwartsSchoolOfMagic/bin/Debug/nunit.framework.dll
