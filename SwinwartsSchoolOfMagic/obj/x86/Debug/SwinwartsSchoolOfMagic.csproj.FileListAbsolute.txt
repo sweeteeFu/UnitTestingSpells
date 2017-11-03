@@ -11,3 +11,6 @@ C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\bin\Debug\normnfkd
 C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.csprojResolveAssemblyReference.cache
 C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.exe
 C:\Users\sfu\Desktop\UnitTestingSpells\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.pdb
+C:\Users\sfu\Documents\GitHub\UnitTestingSpells\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.csprojResolveAssemblyReference.cache
+C:\Users\sfu\Documents\GitHub\UnitTestingSpells\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.exe
+C:\Users\sfu\Documents\GitHub\UnitTestingSpells\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.pdb
