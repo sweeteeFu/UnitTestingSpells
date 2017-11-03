@@ -9,7 +9,7 @@ namespace SwinwartsSchoolOfMagic
 		[Test()]
 		public void TestTeleport()
 		{
-			Spell s = new Spell("Test Teleport", SpellKind.Teleport)
+			Spell s = new Spell("Test Teleport", SpellKind.Teleport);
 			StringAssert.AreEqualIgnoringCase("Poof... you appear somewhere else", s.Cast());
 		}
 
@@ -17,7 +17,7 @@ namespace SwinwartsSchoolOfMagic
 		public void TestInvisibility()
 		{
 			Spell s = new Spell("Test Invisibility", SpellKind.Invisibility);
-			StringAssert.AreEqualIgnoringCase("Zippp... where am I?", s.Cast());
+			StringAssert.AreEqualIgnoringCase("Zippp... ere am I?", s.Cast());
 		}
 
 		[Test()]
